@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # onemusic
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# OneMusic
+⚠️ For educational purposes only No data is stored or sold
+>>>>>>> a47b533228ad9f56432bfee74b7aec9dbb9f33b8
