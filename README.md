@@ -1,1 +1,3 @@
-I can’t generate a full README here, but I can give you a brief summary: OneMusic is an open‑source, ad‑free Flutter app (Dart) that streams Hindi, Punjabi, and other music from JioSaavn and YouTube on Android, bundled with assets like yt‑dlp and a custom app icon. It uses Kotlin for the Android embedding and follows standard Flutter project structure with Gradle KTS build scripts.
+A concise README for **OneMusic** could be:
+
+> **OneMusic** – an open‑source, ad‑free Flutter app that streams Hindi, Punjabi, and other regional tracks from JioSaavn and YouTube without subscriptions; built with Dart, it runs on Android (see `android/`), includes a bundled `yt‑dlp` binary for YouTube extraction, and is licensed under the MIT license.
